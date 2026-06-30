@@ -1,23 +1,20 @@
 # WebSelfServiceApplication
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.15.
 
-`Specificaitions`
-Angular CLI: 7.3.6
-Node: 11.6.0
-OS: win32 x64
-Angular:
-...
+`Specifications`
+Angular CLI: 9.1.15
+Node: 12.22.12
+Angular: 9.1.13
 
 Package                      Version
 ------------------------------------------------------
-@angular-devkit/architect    0.13.6
-@angular-devkit/core         7.3.6
-@angular-devkit/schematics   7.3.6
-@schematics/angular          7.3.6
-@schematics/update           0.13.6
-rxjs                         6.3.3
-typescript                   3.2.4
+@angular-devkit/architect    0.901.15
+@angular-devkit/core         9.1.15
+@angular-devkit/schematics   9.1.15
+@schematics/angular          9.1.15
+rxjs                         6.6.7
+typescript                   3.8.3
 
 ## Development server
 

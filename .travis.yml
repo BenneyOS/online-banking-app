@@ -1,13 +1,13 @@
 language: node_js
 node_js:
-- '12.4.0'
+- '12.22.12'
 dist: trusty
 sudo: required
 branches:
   only:
   - master
 before_script:
-- npm install -g @angular/cli@7.3.9
+- npm install -g @angular/cli@9.1.15
 script:
 - ng lint
 - ng build --prod --base-href https://openmf.github.io/online-banking-app/
